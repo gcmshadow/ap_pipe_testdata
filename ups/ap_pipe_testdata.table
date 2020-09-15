@@ -1,3 +1,2 @@
 # Data cannot be used without obs_decam, but this dependency is omitted to
 # avoid forcing a new download any time obs_decam is rebuilt.
-
